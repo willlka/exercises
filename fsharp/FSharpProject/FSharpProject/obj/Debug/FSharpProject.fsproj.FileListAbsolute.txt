@@ -1,0 +1,9 @@
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\FSharpProject.exe.config
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\FSharpProject.XML
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\FSharpProject.exe
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\FSharpProject.pdb
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\FSharp.Core.dll
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\FSharp.Core.xml
+E:\_OtherProjects\FSharpProject\FSharpProject\bin\Debug\ru\FSharp.Core.resources.dll
+E:\_OtherProjects\FSharpProject\FSharpProject\obj\Debug\FSharpProject.exe
+E:\_OtherProjects\FSharpProject\FSharpProject\obj\Debug\FSharpProject.pdb
